@@ -1,0 +1,6 @@
+name = "nextime-worker"
+type = "javascript"
+compatibility_date = "2025-07-03"
+
+[build]
+upload.format = "modules"
